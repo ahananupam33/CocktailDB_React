@@ -1,4 +1,4 @@
-### Cocktail DB Project
+# Cocktail DB Project
 
 This is a practice project made using React based on Project 15 of John Smilga's [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&ab_channel=freeCodeCamp.org).
 
