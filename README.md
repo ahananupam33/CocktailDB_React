@@ -4,7 +4,9 @@ This is a practice project made using React based on Project 15 of John Smilga's
 
 #### Description
 
-The site contains information about different Cocktails obtained from the Cocktail DB API. A search bar is present to search for a particular cocktail and clicking on each cocktail displays more information about that particular cocktail
+The site contains information about different Cocktails obtained from the Cocktail DB API. A search bar is present to search for a particular cocktail and clicking on each cocktail displays more information about that particular cocktail.
+
+#### Project Link : [Click Here](https://react-cocktaildb-ahan.netlify.app/)
 
 ### Some fixes
 
